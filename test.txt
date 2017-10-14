@@ -1,0 +1,10 @@
+;==============================
+;  hogehoge
+;  hoge
+;==============================
+hoge = hoge
+fuga = fuga
+version = 1,2,50,1
+foooooooo
+barrrrrrr
+;testinf
